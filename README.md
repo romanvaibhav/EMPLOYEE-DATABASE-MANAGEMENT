@@ -41,9 +41,9 @@ Clone the project repository to your local machine:
 <br/>
 
 ``` bash
-<b>git clone <repository_url><br/></b>
+git clone <repository_url
 
-<b>cd <project_directory></b>
+cd <project_directory
 ```
 <br/>
 <br/>
@@ -52,9 +52,9 @@ Clone the project repository to your local machine:
 Navigate to the frontend directory and install the necessary Angular dependencies:<br/>
 
 ``` bash
-<b>cd client<br/></b>
+cd client
 
-<b>npm install</b>
+npm install
 ```
 <br/>
 <br/>
@@ -65,9 +65,9 @@ Navigate to the frontend directory and install the necessary Angular dependencie
 Navigate to the backend directory and install the required Node.js dependencies:<br/>
 
 ``` bash
-<b>cd ../server<br/></b>
+cd ../server
 
-<b>npm install</b>
+npm install
 ```
 <br/>
 <br/>
@@ -77,9 +77,9 @@ Navigate to the backend directory and install the required Node.js dependencies:
 Start the Angular frontend application by running:<br/>
 
 ``` bash
-<b>cd client<br/></b>
+cd client
 
-<b>ng serve</b>
+ng serve
 ```
 <br/>
 
@@ -93,7 +93,7 @@ This will start the Angular app, and it should be available at http://localhost:
 In the backend directory, start the Node.js backend application using the following command:<br/>
 
 ``` bash
-<b>npm run dev</b>
+npm run dev
 ```
 
 cd ../server
